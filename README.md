@@ -8,6 +8,7 @@ The Quiz App is a responsive web application designed for conducting assessments
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Demo](#demo)
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
